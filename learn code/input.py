@@ -3,4 +3,4 @@ print("you name is", a)
 
 b=input("enter number 1 ")
 c=input("enter number 2 ")
-print(int(b)+int(c))
+print(int(b)+int(c))  #typecasting
