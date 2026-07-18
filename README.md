@@ -4,15 +4,6 @@ Welcome to my personal learning repository! This project serves as a structured 
 
 ---
 
-## 📌 Table of Contents
-* [Core Python Mechanics](#-core-python-mechanics)
-* [Data Science & ML Stack](#-data-science--ml-stack)
-* [Repository Structure](#-repository-structure)
-* [Getting Started](#-getting-started)
-* [Key Takeaways & Concept Notes](#-key-takeaways--concept-notes)
-
----
-
 ## 🧠 Core Python Mechanics
 Before diving into models, a deep understanding of Python's underlying architecture is required. This section covers:
 * **Object Mutability:** Deep dive into mutable vs. immutable types (e.g., why `str` and `tuple` are immutable, while `list` and `dict` are mutable).
