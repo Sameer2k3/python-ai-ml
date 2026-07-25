@@ -1,1 +1,2 @@
-awhe
+s = "god"
+print(s[::-1])

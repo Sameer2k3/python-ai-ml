@@ -8,3 +8,7 @@ b=set()
 info={"sameer", 19, False ,19,  "delhi"}
 for value in info:
     print(value)
+
+
+s = "god"
+print(s[::-1])
