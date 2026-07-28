@@ -9,8 +9,7 @@ scores={
 
 mx_score=0
 
-for score in scores:
-    if scores[score]>mx_score:
-        mx_score=scores[score]
+for score in scores.items():
+    mx_score = max(mx_score, scores[score])
 
 print(mx_score)
