@@ -1,11 +1,11 @@
-class person:
-
-    def __init__(self,name,city):
+class student:
+    def __init__(self,name):
         self.name=name
-        self.city=city
 
-p1=person("sameer","azamgarh")
-p2=person("rohan","delhi")
+    def change_name(self,newname):
+        self.name=newname
 
-print(p1.name,p1.city)
-print(p2.name,p2.city)
+s1=student("sameer")
+print(s1.name)
+s1.change_name("raj")
+print(s1.name)
